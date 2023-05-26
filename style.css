@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+}
+
+div {
+color: wheat;
+    margin-top: 40px;
+    margin-left: 25%;
+    width: 50%;
+    text-align: center;
+
+}
+
+.text {
+    margin: 0;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+img {
+    width: 100%;
+    border: 5px solid white;
+}
